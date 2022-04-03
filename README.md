@@ -4,7 +4,7 @@ it will contain any config on st(simple terminal) and the behaviour of the windo
 
 
 sources: https://suckless.org/
-         https://dwm.suckless.org/  
-         https://st.suckless.org/
+       - https://dwm.suckless.org/  
+       - https://st.suckless.org/
       
 Help is welcome and apperciatet but not necessary 
